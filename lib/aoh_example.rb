@@ -15,11 +15,11 @@ PAT_M =  { :name => "Pat Monteseian", :occupation => "Staff" }
 KATE_G = { :name =>"Kate Gompert", :occupation => "None" }
 BRUCE_G = { :name => "Bruce Green", :occupation => "Fan of Mildred" }
 new_arr = [
-  {DON_G},
-  {JOELLE_VD},
-  {PAT_M},
-  {KATE_G},
-  {BRUCE_G}
+  DON_G,
+  JOELLE_VD,
+  PAT_M,
+  KATE_G,
+  BRUCE_G
   ]
 #new_arr = [
 #{:name => "Don Gately", :occupation => "Live-in Staff"},
