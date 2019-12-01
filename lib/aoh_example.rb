@@ -16,11 +16,11 @@ def assembled_aoh
 #BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 new_arr = [
-{:name => "Don Gately", :occupation => "Live-in Staff"},
-{:name => "Joelle van Dyne", :occupation => "Radio Personality"},
-{:name => "Pat Monteseian", :occupation => "Staff"},
-{:name => "Kate Gompert", :occupation => "None"},
-{:name => "Bruce Green", :occupation => "Fan of Mildred"}
+dg = {:name => "Don Gately", :occupation => "Live-in Staff"},
+jvd = {:name => "Joelle van Dyne", :occupation => "Radio Personality"},
+pm = {:name => "Pat Monteseian", :occupation => "Staff"},
+kg = {:name => "Kate Gompert", :occupation => "None"},
+bg = {:name => "Bruce Green", :occupation => "Fan of Mildred"}
 ]
   new_arr
 end
