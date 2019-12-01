@@ -22,7 +22,7 @@ new_arr = [
 {:name => "Kate Gompert", :occupation => "None"},
 {:name => "Bruce Green", :occupation => "Fan of Mildred"}
 ]
-  new_arr.
+  new_arr
 end
 
 def literal_aoh
