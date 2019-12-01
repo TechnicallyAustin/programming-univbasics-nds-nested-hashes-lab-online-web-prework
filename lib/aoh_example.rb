@@ -27,7 +27,7 @@ new_arr = [
 #{:name => "Pat Monteseian", :occupation => "Staff"},
 #{:name => "Kate Gompert", :occupation => "None"},
 #{:name => "Bruce Green", :occupation => "Fan of Mildred"}
-]
+#]
   new_arr 
 end
 
