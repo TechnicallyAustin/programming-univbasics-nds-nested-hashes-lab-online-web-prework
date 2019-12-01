@@ -21,8 +21,7 @@ def assembled_aoh
   #{:name => "Kate Gompert", :occupation => "None"},
   #{:name => "Bruce Green", :occupation => "Fan of Mildred"}
   ]
-  new_arr.sort
-  
+  new_arr
   
 end
 
