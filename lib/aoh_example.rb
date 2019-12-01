@@ -18,6 +18,7 @@ p5 = {:name => "Bruce Green", :occupation => "Fan of Mildred"}
 
   new_arr = [p1,p2,p3,p4,p5]
   new_arr
+end 
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
