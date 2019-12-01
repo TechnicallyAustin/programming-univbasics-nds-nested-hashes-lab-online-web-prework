@@ -16,7 +16,7 @@ p3 = {:name => "Pat Monteseian", :occupation => "Staff"},
 p4 = {:name => "Kate Gompert", :occupation => "None"},
 p5 = {:name => "Bruce Green", :occupation => "Fan of Mildred"}
 
-  new_arr = [p1,p2,p3,p4,p5
+  new_arr = [p1,p2,p3,p4,p5]
   new_arr
 
 def literal_aoh
