@@ -9,27 +9,15 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
-#DON_G = {:name => "Don Gately", :occupation => "Live-in Staff" }
-#JOELLE_VD = {:name => "Joelle van Dyne", :occupation => "Radio Personality" }
-#PAT_M =  { :name => "Pat Monteseian", :occupation => "Staff" }
-#KATE_G = { :name =>"Kate Gompert", :occupation => "None" }
-#BRUCE_G = { :name => "Bruce Green", :occupation => "Fan of Mildred" }
-new_arr = [
-  DON_G,
-  JOELLE_VD,
-  PAT_M,
-  KATE_G,
-  BRUCE_G
-  ]
-#new_arr = [
-#{:name => "Don Gately", :occupation => "Live-in Staff"},
-#{:name => "Joelle van Dyne", :occupation => "Radio Personality"},
-#{:name => "Pat Monteseian", :occupation => "Staff"},
-#{:name => "Kate Gompert", :occupation => "None"},
-#{:name => "Bruce Green", :occupation => "Fan of Mildred"}
-#]
-  new_arr = new_arr.sort_by(:name)
-end
+
+p1 = {:name => "Don Gately", :occupation => "Live-in Staff"},
+p2 = {:name => "Joelle van Dyne", :occupation => "Radio Personality"},
+p3 = {:name => "Pat Monteseian", :occupation => "Staff"},
+p4 = {:name => "Kate Gompert", :occupation => "None"},
+p5 = {:name => "Bruce Green", :occupation => "Fan of Mildred"}
+
+  new_arr = [p1,p2,p3,p4,p5
+  new_arr
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
